@@ -2,7 +2,7 @@ import 'package:bitcoin_ticker/services/networking.dart';
 import 'package:flutter/cupertino.dart';
 
 
-const String apiKey = 'B381278E-C441-4196-BCA5-996131027229';
+const String apiKey = 'YOR_API_KEY';
 const String coinApiURL = 'https://rest.coinapi.io/v1/exchangerate';
 
 class CoinModel {
